@@ -5,7 +5,7 @@
 🔬 Researcher in Evolutionary Neuroscience
 
 🔹 Building my own security focussed **Operating System** 🖥️ 
-🔹 Passionate about **low-level security, reverse engineering, and AI-driven cybersecurity**  
+🔹 Passionate about **low-level security, reverse engineering, and cybersecurity**  
 🔹 Exploring **primatology, behavioral neuroscience, and evolutionary cognition** 
 
 🚀 **Currently hacking, building, and learning.**  
